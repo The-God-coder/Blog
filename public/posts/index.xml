@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aniket K</title>
+    <link>http://aniket.com/posts/</link>
+    <description>Recent content in Posts on Aniket K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 11 Aug 2023 22:43:23 -0400</lastBuildDate><atom:link href="http://aniket.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D printing Part 1</title>
+      <link>http://aniket.com/posts/3dprinting/</link>
+      <pubDate>Fri, 11 Aug 2023 22:43:23 -0400</pubDate>
+      
+      <guid>http://aniket.com/posts/3dprinting/</guid>
+      <description>Introduction
+Welcome to the first installment of our &amp;ldquo;Mastering 3D Printing: Tips and Tricks&amp;rdquo; series. 3D printing is a fascinating world that offers endless creative possibilities, but it can also present challenges.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://aniket.com/posts/3dprinting/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>3D printing Part 2</title>
+      <link>http://aniket.com/posts/3dprintingpart2/</link>
+      <pubDate>Fri, 11 Aug 2023 22:43:23 -0400</pubDate>
+      
+      <guid>http://aniket.com/posts/3dprintingpart2/</guid>
+      <description>Introduction
+Welcome back to the second part of our &amp;ldquo;Mastering 3D Printing: Tips and Tricks&amp;rdquo; series. In this installment, we&amp;rsquo;ll dive into two more invaluable techniques that can significantly enhance your 3D printing journey: harnessing community firmware for advanced control and customization and utilizing a glass print bed for improved print quality and adhesion.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://aniket.com/posts/3dprintingpart2/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

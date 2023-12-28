@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Aniket K</title>
+    <link>http://aniket.com/series/</link>
+    <description>Recent content in Series on Aniket K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 11 Aug 2023 22:43:23 -0400</lastBuildDate><atom:link href="http://aniket.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printing</title>
+      <link>http://aniket.com/series/3d-printing/</link>
+      <pubDate>Fri, 11 Aug 2023 22:43:23 -0400</pubDate>
+      
+      <guid>http://aniket.com/series/3d-printing/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
