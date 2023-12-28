@@ -1,7 +1,7 @@
 ---
 title: "Robocup Junior - Game Day"
 date: 2023-12-28T11:57:07-05:00
-draft: true
+draft: false
 series: ["RCJ"]
 series_order: 3
 ---

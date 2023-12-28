@@ -1,7 +1,7 @@
 ---
 title: "Robocup Junior - The Design Challenge"
 date: 2023-12-28T11:57:04-05:00
-draft: true
+draft: false
 series: ["RCJ"]
 series_order: 2
 ---

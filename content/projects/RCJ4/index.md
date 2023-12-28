@@ -1,7 +1,7 @@
 ---
 title: "Robocup Junior - Reflection"
 date: 2023-12-28T11:57:11-05:00
-draft: true
+draft: false
 series: ["RCJ"]
 series_order: 4
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Robocup Junior - The Experience"
 date: 2023-12-28T11:57:02-05:00
-draft: true
+draft: false
 series: ["RCJ"]
 series_order: 1
 ---
